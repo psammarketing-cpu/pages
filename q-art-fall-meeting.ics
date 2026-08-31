@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CalLink//Add to Calendar Generator//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20260831T205036Z-hwz677mf@cal-link.pages.dev
+DTSTAMP:20260831T205036Z
+DTSTART:20260918T170000Z
+DTEND:20260918T180000Z
+SUMMARY:Q+ Art Fall Meeting
+LOCATION:https://zoom.us/j/91332398667?pwd=LLW1vaxyarCe6HwEmZguE2HoTHftXn.1
+DESCRIPTION:We’ll discuss the year ahead\, this year’s Q+ Art Award rec
+ ipient\, and introduce our new Curator-at-Large\, Cesar Garcia Alvarez.
+END:VEVENT
+END:VCALENDAR

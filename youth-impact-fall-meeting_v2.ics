@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PSAM//Youth Impact Donor Meeting//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20260901T213624Z-youthimpact@psmuseum.org
+DTSTAMP:20260901T213624Z
+DTSTART:20260918T220000Z
+DTEND:20260918T230000Z
+SUMMARY:Youth Impact Donor Meeting
+LOCATION:Palm Springs Art Museum\, 101 N. Museum Dr.\, Palm Springs\, CA\, 
+ 92262
+DESCRIPTION:Join us in person with Luisa Heredia\, Chief Education and Comm
+ unity Engagement Officer\, to celebrate what your support makes possible.
+END:VEVENT
+END:VCALENDAR
